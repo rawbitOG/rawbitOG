@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rawbitOG
-- 👀 I’m interested in ... Blockchain, development
-- 🌱 I’m currently learning ... rust/substrate, js/react
-- 💞️ I’m looking to collaborate on ... yes
+- 👀 I’m interested in ... Blockchain, ML/AI, Data Visualization and Engineering
+- 🌱 I’m currently learning ... js/react/angular
+- 💞️ I’m looking to ... yes
 - 📫 How to reach me ... discord - Dannysup#7354
 
 <!---
